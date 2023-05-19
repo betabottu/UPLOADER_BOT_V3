@@ -7,6 +7,8 @@ class Translation(object):
 
 I Am Telegram URL Uploader Bot.
 
+<b> Created By @MoviezAddaKan </b>
+
 **__Send me a direct link and I will upload it to telegram as a file/video.__**
 
 **Use Help Button To Know How To Use Me**
@@ -30,17 +32,17 @@ I Am Telegram URL Uploader Bot.
  
 """
     ABOUT_TEXT = """
-**📛 My Name** : [Uploader Bot V3 🚀](http://t.me/UploadFlieBot)
+**📛 My Name** : [Uploader Bot V3 🚀](http://t.me/MoviezAddaKan)
 
-**❤️ Version** : [2.3 🔥](http://t.me/UploadFlieBot)
+**❤️ Version** : [2.3 🔥](http://t.me/MoviezAddaKan)
 
-**🤖 Source** : [Click](https://github.com/LISA-KOREA/UPLOADER-BOT-V3)
+**🤖 Source** : [Click](https://t.me/MoviezAddaKan)
 
 **🧿 Language** : [Python 3.10.11](https://www.python.org/)
 
 **📢 Framework** : [Pyrogram 1.4.16](https://docs.pyrogram.org/)
 
-**👨‍💻 Developer** : [LISA](https://t.me/LISA_FAN_LK)
+**👨‍💻 Developer** : [LISA](https://t.me/MoviezAddaKan)
 
 """
 
@@ -96,7 +98,7 @@ I Am Telegram URL Uploader Bot.
     UPLOAD_START = "📤 Uploading.."
     RCHD_BOT_API_LIMIT = "size greater than maximum allowed size (50MB). Neverthless, trying to upload."
     RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nSorry. But, I cannot upload files greater than 2GB due to Telegram API limitations."
-    AFTER_SUCCESSFUL_UPLOAD_MSG = " OWNER : Lisa 💕\nFor the List of Telegram Bots"
+    AFTER_SUCCESSFUL_UPLOAD_MSG = " OWNER : M H B 💕\nFor the List of Telegram Bots"
     AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Dᴏᴡɴʟᴏᴀᴅᴇᴅ ɪɴ {} sᴇᴄᴏɴᴅs.\n\nTʜᴀɴᴋs Fᴏʀ Usɪɴɢ Mᴇ\n\nUᴘʟᴏᴀᴅᴇᴅ ɪɴ {} sᴇᴄᴏɴᴅs"
     NOT_AUTH_USER_TEXT = "Please /upgrade your subscription."
     SAVED_CUSTOM_THUMB_NAIL = "Save Your Thumbnail ✔️"
